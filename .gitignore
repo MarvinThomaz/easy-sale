@@ -328,3 +328,8 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+.vscode/solution-explorer/class.*
+.vscode/solution-explorer/default.*
+.vscode/solution-explorer/interface.*
+.vscode/solution-explorer/enum.*
+.vscode/solution-explorer/template-*
